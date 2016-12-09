@@ -5,7 +5,7 @@ package com.java.hr;
 
 
 /**
- * @author rahul.gupta
+ * @author Rahul gupta
  *
  */
 public class EmployeeSalaryCalculation {
